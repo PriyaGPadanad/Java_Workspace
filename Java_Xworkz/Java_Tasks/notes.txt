@@ -1,0 +1,27 @@
+// 24 Feb 2025
+class is a keyword
+custom data tyoe
+class is a non primitive data type.
+class is a program, which represents real world object.
+
+
+// 25 Feb 2025
+variables- name given to address of a value stored in a memory
+is a container
+doesnt have a specific value
+
+data type-representing type of info
+primitive 8 data type
+non primitive - declare class - infinite example
+
+Program to declare each primitive value's(8 variables )
+initialize the the variables and print it
+Re-int and then print it
+byte: 5 variables
+short : 5 variables
+declare total 8 classes
+each class should have a datatype with 5 variables initialize and re-initialize
+
+// 26 Feb 2025
+stack - collection of information
+stack frame- 
