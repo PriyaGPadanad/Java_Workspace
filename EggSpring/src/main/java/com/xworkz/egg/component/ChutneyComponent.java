@@ -1,0 +1,17 @@
+package com.xworkz.egg.component;
+
+import org.springframework.stereotype.Component;
+import org.springframework.web.bind.annotation.RequestMapping;
+
+@Component
+@RequestMapping("/")
+public class ChutneyComponent {
+    public ChutneyComponent(){
+        System.out.println("constructor of ChutneyComponent");
+    }
+    @RequestMapping("/chutney")
+    public String getChutney(){
+        System.out.println("getChutney Method");
+        return "chutney.jsp";
+    }
+}
